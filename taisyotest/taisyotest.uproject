@@ -5,7 +5,15 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "ApexDestruction",
+			"Name": "OculusVR",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false
+		},
+		{
+			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
 	]
